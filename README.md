@@ -1,0 +1,2 @@
+# synology-compressaudio
+Synology向けLossLess音楽ファイルをmp3に変換するスクリプト
